@@ -23,4 +23,6 @@ var analytics = {
     pageview: function(path){
         ga('send', 'pageview', path);
     }
-}
+};
+
+module.exports = analytics;
