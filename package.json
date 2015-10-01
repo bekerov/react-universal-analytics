@@ -1,0 +1,20 @@
+{
+  "name": "react-universal-analytics",
+  "version": "1.0.0",
+  "description": "React component for Google Universal Analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Google",
+    "Analytics",
+    "Universal",
+    "Analytics",
+    "Reactjs"
+  ],
+  "author": "Bekerov A.A.",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
