@@ -1,10 +1,14 @@
 {
   "name": "react-universal-analytics",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "React component for Google Universal Analytics",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekerov/react-universal-analytics.git"
   },
   "keywords": [
     "Google",
@@ -13,7 +17,13 @@
     "Analytics",
     "Reactjs"
   ],
-  "author": "Bekerov A.A.",
+  "author": {
+    "name": "Bekerov Artur",
+    "email": "artur@bekerov.ru"
+  },
+  "bugs": {
+    "url": "https://github.com/bekerov/react-universal-analytics/issues"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {}
