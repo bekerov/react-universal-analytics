@@ -23,7 +23,7 @@ var Router = require('react-router');
 var ga = require('react-universal-analytics');
 
 window.onload = function () {
-    ga.init('UA-68218270-1');
+    ga.init('UA-XXXXXXXX-X');
     Router.run(routes, function (Handler) {
         ga.pageview(state.pathname);
         React.render(<Handler />, document.body);
